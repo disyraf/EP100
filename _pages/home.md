@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Assignments
+permalink: /assignments/
 ---
-{% include hero.html %}
+{% include assignment.html %}
+
