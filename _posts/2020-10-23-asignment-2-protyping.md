@@ -5,47 +5,31 @@ date:   2020-10-23 21:20:30 +0800
 image:  02.jpg
 tags:   Assignment-2
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+<strong>Prototyping</strong> is an essential part of building anything from small personal projects to large scale projects led by big organisations. There are many tools and materials that can be used for prototyping. The most common material used is cardboard. 
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
+### Why is cardboard good for prototyping?
+Cardboard is a great material for protyping because it is cheap if not free, environmentally friendly and easy to work with. Corrugated cardboard readily collapses along the corrugations when force is applied in a way where one or both ends of the corrugations are not supported. That means that it bends easily in one direction but is extremely resistant to bending in the other. Cardboard can be used in many ways due to its versatility.
 
-## Are you crazy? I can't swallow that.
+### Cardboard prototype
+To prove to you that cardboard is really useful, I made a prototype myself.
+I made a simple handphone holder, made up entirely out of cardboard. 
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
+### Sketching 
+Sketching is the first step to prototyping. It converts whatever is in your brain into the real world. The sketch doesn't have to be pretty. It just has to look like the picture you had in your head. For me, the handphone holder looked like this in my head:
+![]({{ site.baseurl }}/images/sketch_holder.jpg)
+Now, I know that it is not the best looking sketch, but it's something that I can work with. 
 
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
+### Tools
+There are many tools that can be used but I went with the simplest of options - siccors, pen knife and some hot glue. These tools are perfect for the job and they are easily attainable. 
 
-### Why not indeed!
+### The Final Piece
+Now that the sketch is done. I start to build it it out of cardboard. Here are the step I took to do so:
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
-
-* Shinier than yours, meatbag.
-* This is the worst part. The calm before the battle.
-* Ooh, name it after me!
-
-Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we walk! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Ow, my spirit! Who's brave enough to fly into something we all keep calling a death sphere?
-
-Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
-
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
-
-Ummm…to eBay? But I know you in the future. I cleaned your poop. I'm just glad my fat, ugly mama isn't alive to see this day. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
-
-Your best is an idiot! Fry, you can't just sit here in the dark listening to classical music. And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!
-
-You, a bobsleder!? That I'd like to see! I'm Santa Claus! There's no part of that sentence I didn't like! Noooooo! I can explain. It's very valuable.
-
-I'm Santa Claus! Is the Space Pope reptilian!? Who's brave enough to fly into something we all keep calling a death sphere? I had more, but you go ahead.
-
-It doesn't look so shiny to me. Kif might! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.
-
-Check it out, y'all. Everyone who was invited is here. Anyone who laughs is a communist! You're going to do his laundry? Michelle, I don't regret this, but I both rue and lament it.
-
-Bender, we're trying our best. I daresay that Fry has discovered the smelliest object in the known universe! Oh, you're a dollar naughtier than most. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
-
-You, a bobsleder!? That I'd like to see! No! The kind with looting and maybe starting a few fires! Good news, everyone! There's a report on TV with some very bad news! When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film. But if I did make it, you can bet there would have been more topless women on motorcycles. Roll film!
-
-Eeeee! Now say "nuclear wessels"! Why did you bring us here? Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." That's the ONLY thing about being a slave.
+1. Draw the pieces on the cardboard 
+![]({{ site.baseurl }}/images/.jpg)
+2. Use the pen knife and siccors to cut them out
+![]({{ site.baseurl }}/images/.jpg)
+3. Assemble the pieces using hot glue
+![]({{ site.baseurl }}/images/.jpg)
+4. Admire your work 
+![]({{ site.baseurl }}/images/.jpg)
